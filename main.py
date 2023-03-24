@@ -78,7 +78,7 @@ while(True):
   print(n)
 
   pagesNO = timing(pagesNO, doc)
-  time.sleep(50)
+  time.sleep(60)
   n += 1
 
   
